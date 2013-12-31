@@ -15,3 +15,5 @@ There are five basic steps to implementing the technique:
 
 
 [Pomodoro Technique][http://en.wikipedia.org/wiki/Pomodoro_Technique]
+
+[logo]: http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Il_pomodoro.jpg/220px-Il_pomodoro.jpg "tomato time!"
